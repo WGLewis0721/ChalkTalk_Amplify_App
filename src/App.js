@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and view the new changes..
+          Edit <code>src/App.js</code> and push the new changes to GiHub.
         </p>
         <a
           className="App-link"

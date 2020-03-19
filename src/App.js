@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and push the new changes to GiHub.
+          Edit <code>src/App.js</code> and push the new changes to GitHub and deploy on Amplify.
         </p>
         <a
           className="App-link"
